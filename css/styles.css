@@ -485,12 +485,12 @@ body{
         flex-wrap: wrap;
         gap: 15px;
     }
-
+/*
    .logo img {
         width: 140px;
         height: 55px;
    }
-
+*/
     .navbar {
         order: 3;
         width: 100%;
